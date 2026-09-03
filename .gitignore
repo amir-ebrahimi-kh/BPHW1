@@ -1,0 +1,13 @@
+# Compiled class files
+*.class
+
+# Downloaded files
+google-java-format-*.jar
+
+# IDE configurations
+.vscode/
+.idea/
+.classpath
+.project
+.settings/
+*.iml
